@@ -10,7 +10,6 @@
 #
 # Required Files     		
 # Folder: Directory	
-# File: Logout.exe		
 #
 # This is the Login file for a USB 
 # verification system which requires
