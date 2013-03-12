@@ -1,4 +1,4 @@
-h2. Welcome to the home of USB-Locker, a USB locking application coded in autoit.
+h2. Welcome to the home of USB-Locker. A USB locking application coded in AutoIt 3.
 
 You should know a few things before you use this code. Firstly, this is not a method of encryption, this code merely uses the WINDOWS command line to hide the files in the folder Directory on the USB drive. More information on this can be found below.
 
