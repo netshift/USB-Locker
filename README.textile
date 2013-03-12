@@ -1,18 +1,22 @@
-h2. Welcome to the home of USB-Locker. A USB locking application coded in AutoIt 3.
+th2. Welcome to the home of USB-Locker. A USB locking application coded in AutoIt 3.
 
 You should know a few things before you use this code. Firstly, this is not a method of encryption, this code merely uses the WINDOWS command line to hide the files in the folder Directory on the USB drive. More information on this can be found below.
 
-h3. File Naming
+h3. Renaming the Files
 
 Do not change the name of the file Directory in your USB drive unless you're also changing the code.
 
-h3. "Locking" Method
+h3. The "Locking" Method
 
 This code uses the Windows command line to hide files. That means this script is not cross platform and will not work on any other operating systems. 
 
 Not only that, but setting folder options to "Show hidden files and folders" will bypass this entire method. 
 
 It's more a proof of concept / quick code used for brand new school USBs then it is an encryption method to circumvent computer savy hackers.
+
+h3. TheCAPTCHA
+
+Even though this technically application if not built for real security, I thought I'd add a capture for the hell of it. It's just a feature I'd been looking for an excuse to implement for a while now.
 
 h3. Bugs & Questions
 
